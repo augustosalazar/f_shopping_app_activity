@@ -1,16 +1,3 @@
 # f_shopping_app_activity
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![shoppingApp](https://user-images.githubusercontent.com/4458129/173837321-32cd31fc-e5ba-4860-b3d5-16c126ad0d47.gif)
